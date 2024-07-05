@@ -1,0 +1,3 @@
+Created a 5-bit ALU in Cadence Virtuoso with about 3000 transistors. ALU included static functions such as addition, subtraction, multiplication and division of two 5-bit binary numbers. The ALU also included a synchronous shift PIPO shift register that used a clock and D Flip-Flops. Entire ALU design passed DRC, LVS check, and was put on a 0.9 μm x 0.9 μm pad frame using ON/AMI 0.6 μm technology. Each gate was created by hand and used the same 31.8 μm cell pitch. The chip was intended to be manufactured and then later tested but due to the chip shortage and the COVID-19 pandemic that was not able to happen. The project spanned from layouts drawn by hand using Cadence Virtuoso to GDS Sign off. 
+
+Report and GDS file attached. GDS file is named project_g333.gds
