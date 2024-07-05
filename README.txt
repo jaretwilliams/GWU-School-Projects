@@ -1,0 +1,1 @@
+These projects were completed during my Electrical Engineering undergraduate studies at George Washington University. 
