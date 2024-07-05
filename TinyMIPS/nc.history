@@ -1,0 +1,65 @@
+s1(18Apr2022:17:32:16):  ncverilog -l nc.log +access+r mips.v controller.v datapath.v alucontrol.v 
+s2(18Apr2022:17:32:48):  ncverilog -l nc.log +access+r mips.v controller.v datapath.v alucontrol.v 
+s3(18Apr2022:17:39:08):  ncverilog -l nc.log +access+r mips.v controller.v datapath.v alucontrol.v 
+s4(18Apr2022:17:39:40):  ncverilog -l nc.log +access+r mips.v controller.v datapath.v alucontrol.v 
+s5(18Apr2022:17:40:20):  ncverilog -l nc.log +access+r mips.v controller.v datapath.v alucontrol.v 
+s6(18Apr2022:17:40:49):  ncverilog -l nc.log +access+r mips.v controller.v datapath.v alucontrol.v 
+s7(18Apr2022:17:46:31):  ncverilog -l nc.log +access+r mips.v controller.v datapath.v alucontrol.v 
+s8(18Apr2022:17:46:55):  ncverilog -l nc.log +access+r mips.v controller.v datapath.v alucontrol.v 
+s9(18Apr2022:17:50:03):  ncverilog -l nc.log +access+r mips.v controller.v datapath.v alucontrol.v 
+s10(29Apr2022:14:14:39):  ncverilog -l nc.log +access+r const_test.v 
+s11(29Apr2022:14:14:53):  ncverilog -l nc.log +access+r const_test.v 
+s12(29Apr2022:14:34:19):  ncverilog -l nc.log +access+r mips_mem.v mips.v exmem.v 
+s13(29Apr2022:14:34:46):  ncverilog -l nc.log +access+r mips_mem.v mips.v exmem.v 
+s14(29Apr2022:14:36:45):  ncverilog -l nc.log +access+r mips_mem.v mips.v exmem.v datapath.v alucontrol.v controller.v 
+s15(29Apr2022:14:39:30):  ncverilog -l nc.log +access+r top_tb.v mips_mem.v mips.v exmem.v datapath.v alucontrol.v controller.v 
+s16(29Apr2022:14:42:04):  ncverilog -l nc.log +access+r top_tb.v mips_mem.v mips.v exmem.v datapath.v alucontrol.v controller.v fib.dat 
+s17(29Apr2022:14:43:39):  ncverilog -l nc.log +access+r top_tb.v mips_mem.v mips.v exmem.v datapath.v alucontrol.v controller.v 
+s18(29Apr2022:15:29:17):  ncverilog -l nc.log +access+r top_tb.v mips_mem.v mips.v ram.v datapath.v alucontrol.v controller.v 
+s19(29Apr2022:15:30:19):  ncverilog -l nc.log +access+r top_tb.v mips_mem.v mips.v ram.v datapath.v alucontrol.v controller.v 
+s20(29Apr2022:15:36:52):  ncverilog -l nc.log +access+r top_tb.v mips_mem.v 
+s21(29Apr2022:15:40:12):  ncverilog -l nc.log +access+r top_tb.v mips_mem.v 
+s22(29Apr2022:15:44:33):  ncverilog -l nc.log +access+r cpu_tb.v mips_mem.v ram.v 
+s23(29Apr2022:15:45:51):  ncverilog -l nc.log +access+r cpu_tb.v mips_mem.v ram.v 
+s24(29Apr2022:15:49:28):  ncverilog -l nc.log +access+r cpu_tb.v mips_mem.v ram.v 
+s25(29Apr2022:15:49:50):  ncverilog -l nc.log +access+r cpu_tb.v ram.v 
+s26(29Apr2022:15:51:11):  ncverilog -l nc.log +access+r cpu_tb.v ram.v 
+s27(29Apr2022:15:53:16):  ncverilog -l nc.log +access+r cpu_tb.v ram.v 
+s28(29Apr2022:15:54:10):  ncverilog -l nc.log +access+r cpu_tb.v ram.v 
+s29(29Apr2022:15:55:14):  ncverilog -l nc.log +access+r cpu_tb.v ram.v 
+s30(29Apr2022:15:56:21):  ncverilog -l nc.log +access+r cpu_tb.v ram.v 
+s31(29Apr2022:15:56:38):  ncverilog -l nc.log +access+r cpu_tb.v ram.v 
+s32(29Apr2022:15:59:13):  ncverilog -l nc.log +access+r cpu_tb.v ram.v 
+s33(29Apr2022:15:59:29):  ncverilog -l nc.log +access+r cpu_tb.v ram.v 
+s34(29Apr2022:16:00:16):  ncverilog -l nc.log +access+r cpu_tb.v ram.v mips.v 
+s35(29Apr2022:16:01:28):  ncverilog -l nc.log +access+r cpu_tb.v ram.v mips.v datapath.v alucontrol.v controller.v 
+s36(29Apr2022:16:04:41):  ncverilog -l nc.log +access+r cpu_tb.v ram.v mips.v datapath.v alucontrol.v controller.v 
+s37(29Apr2022:16:06:23):  ncverilog -l nc.log +access+r cpu_tb.v ram.v mips.v datapath.v alucontrol.v controller.v 
+s38(29Apr2022:16:07:39):  ncverilog -l nc.log +access+r cpu_tb.v ram.v mips.v datapath.v alucontrol.v controller.v 
+s39(29Apr2022:16:08:04):  ncverilog -l nc.log +access+r cpu_tb.v ram.v mips.v datapath.v alucontrol.v controller.v 
+s40(29Apr2022:16:18:58):  ncverilog -l nc.log +access+r cpu_tb.v ram.v mips.v datapath.v alucontrol.v controller.v 
+s41(29Apr2022:16:22:52):  ncverilog -l nc.log +access+r top_tb.v ram.v mips.v datapath.v alucontrol.v controller.v 
+s42(29Apr2022:16:27:37):  ncverilog -l nc.log +access+r top_tb.v ram.v mips.v datapath.v alucontrol.v controller.v 
+s43(29Apr2022:16:28:14):  ncverilog -l nc.log +access+r top_tb.v mips_mem2.v ram.v mips.v datapath.v alucontrol.v controller.v 
+s44(29Apr2022:16:28:31):  ncverilog -l nc.log +access+r top_tb.v mips_mem2.v ram.v mips.v datapath.v alucontrol.v controller.v 
+s45(29Apr2022:16:29:09):  ncverilog -l nc.log +access+r top_tb.v mips_mem2.v ram.v mips.v datapath.v alucontrol.v controller.v 
+s46(29Apr2022:16:37:47):  ncverilog -l nc.log +access+r controller_tb.v controller.v 
+s47(29Apr2022:16:38:41):  ncverilog -l nc.log +access+r controller_tb.v controller.v 
+s48(29Apr2022:16:40:13):  ncverilog -l nc.log +access+r controller_tb.v controller.v 
+s49(29Apr2022:16:41:20):  ncverilog -l nc.log +access+r controller_tb.v controller.v 
+s50(29Apr2022:16:42:32):  ncverilog -l nc.log +access+r controller_tb.v controller.v 
+s51(29Apr2022:16:44:20):  ncverilog -l nc.log +access+r controller_tb.v controller.v 
+s52(29Apr2022:16:46:10):  ncverilog -l nc.log +access+r controller_tb.v controller.v 
+s53(29Apr2022:16:51:14):  ncverilog -l nc.log +access+r controller_tb.v controller.v 
+s54(29Apr2022:16:55:19):  ncverilog -l nc.log +access+r top_tb.v mips_mem2.v ram.v mips.v datapath.v alucontrol.v controller.v 
+s55(29Apr2022:17:37:07):  ncverilog -l nc.log +access+r datapath_tb.v datapath.v 
+s56(29Apr2022:17:44:19):  ncverilog -l nc.log +access+r datapath_tb.v datapath.v 
+s57(29Apr2022:17:44:29):  ncverilog -l nc.log +access+r top_tb.v mips_mem2.v ram.v mips.v datapath.v alucontrol.v controller.v 
+s58(29Apr2022:17:57:36):  ncverilog -l nc.log +access+r top_tb.v mips_mem2.v ram.v mips.v datapath.v alucontrol.v controller.v 
+s59(29Apr2022:17:57:53):  ncverilog -l nc.log +access+r top_tb.v mips_mem2.v ram.v mips.v datapath.v alucontrol.v controller.v 
+s60(29Apr2022:17:59:02):  ncverilog -l nc.log +access+r top_tb.v mips_mem2.v ram.v mips.v datapath.v alucontrol.v controller.v 
+s61(29Apr2022:17:59:17):  ncverilog -l nc.log +access+r cpu_tb.v ram.v mips.v datapath.v alucontrol.v controller.v 
+s62(29Apr2022:18:02:43):  ncverilog -l nc.log +access+r top_tb.v mips_mem2.v ram.v mips.v datapath.v alucontrol.v controller.v 
+s63(29Apr2022:18:10:24):  ncverilog -l nc.log +access+r top_tb.v mips_mem2.v ram.v mips.v datapath.v alucontrol.v controller.v 
+s64(30Apr2022:14:15:15):  ncverilog -l nc.log +access+r maxtb.v mips_scan.v osu_scan.v osu05_stdcells.v 
+s65(30Apr2022:14:16:03):  ncverilog -l nc.log +access+r maxtb.v mips_scan.v osu_scan.v osu05_stdcells.v 
